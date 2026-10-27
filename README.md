@@ -1,6 +1,6 @@
 <!-- Animated Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Eng%20Thavoreak%20(Reak)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Engineering%20%7C%20AI%20%26%20BI%20Analytics&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Eng%20Thavoreak%20(Reak)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Engineering%20Student%20%7C%20IoT%20Maker%20%7C%20Data%20Operations&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Animated Typing SVG -->
@@ -29,8 +29,9 @@
 - 🎓 **Education:** Data Science & Engineering (DSE) Undergraduate @ **Royal University of Phnom Penh (RUPP)**
 - 💼 **Current Role:** Operations & Data Assistant @ **Cocoonin** (POS analytics, KPI tracking, & catalog operations)
 - 🏆 **Achievement:** **Champion** at the **MIS Datazone 2026 Competition** (Paragon International University)
+- 🚀 **Featured Work:** Smart IoT waste management prototypes, KHQR web payment systems, and interactive study tools
 - 🤖 **Tech Focus:** Machine Learning & AI, Business Intelligence, Applied Data Analysis, and ESP32 IoT Prototyping
-- ⚡ **Fun Fact:** When I'm not analyzing datasets or building in hackathons, you'll find me on the badminton court 🏸
+- ⚡ **Fun Fact:** When I'm not analyzing datasets or wiring breadboards, you'll find me on the badminton court 🏸
 
 <br clear="both"/>
 
