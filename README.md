@@ -1,12 +1,12 @@
 <!-- Animated Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Eng%20Thavoreak%20(Reak)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Engineering%20Student%20%7C%20IoT%20Maker%20%7C%20Data%20Operations&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Eng%20Thavoreak%20(Reak)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20and%20Engineering%20Student%20%7C%20IoT%20Maker%20%7C%20Data%20Operations&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+Engineering+%40+RUPP;Champion+%F0%9F%8F%86+MIS+Datazone+2026+Competition;Operations+%26+Data+Assistant+%40+Cocoonin;AI+Hackathon+Builder+%26+IoT+Prototyper" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+and+Engineering+%40+RUPP;Champion+%F0%9F%8F%86+MIS+Datazone+2026+Competition;Operations+and+Data+Assistant+%40+Cocoonin;AI+Hackathon+Builder+and+IoT+Prototyper" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 ### ⏳ Journey, Competitions & Experience Timeline
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=800&color=00F7A7&background=0D111700&center=true&vCenter=true&width=750&lines=%F0%9F%93%85+Sep+2024%3A+Completed+GESL+%26+SPEL+Programs+%40+PUC;%F0%9F%92%BC+Jan+2026+-+Present%3A+Operations+%26+Data+Assistant+%40+Cocoonin;%F0%9F%8F%86+Jul+2026%3A+CHAMPION+-+MIS+Datazone+2026+Competition+%40+Paragon+IU;%F0%9F%A7%AC+Jul+2026%3A+Healthcare+AI+Hackathon+(Khmer+Lab+Result+Explainer);%F0%9F%8C%B1+Aug+2026%3A+Product+Lead+-+DGIY+Hackathon+(ChnaiCycle)" alt="Animated Timeline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=800&color=00F7A7&background=0D111700&center=true&vCenter=true&width=750&lines=%F0%9F%93%85+Sep+2024%3A+Completed+GESL+and+SPEL+Programs+%40+PUC;%F0%9F%92%BC+Jan+2026+-+Present%3A+Operations+and+Data+Assistant+%40+Cocoonin;%F0%9F%8F%86+Jul+2026%3A+CHAMPION+-+MIS+Datazone+2026+Competition+%40+Paragon+IU;%F0%9F%A7%AC+Jul+2026%3A+Healthcare+AI+Hackathon+(Khmer+Lab+Result+Explainer);%F0%9F%8C%B1+Aug+2026%3A+Product+Lead+-+DGIY+Hackathon+(ChnaiCycle)" alt="Animated Timeline" />
 </p>
 
 ```mermaid
